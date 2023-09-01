@@ -1,8 +1,8 @@
 # Introduction
 A brief training log is in the logs and codes.pdf file. The full training log is in the logs folder.
 # Todo
-- [] The codes and models will be available soon.
-- [] The chekpoint files are available soon.
+- [ ] The codes and models will be available soon.
+- [ ] The chekpoint files are available soon.
 # Result
 ## CTW1500
 |Method| Precision(%) | Recall(%) | F-measure(%) |
